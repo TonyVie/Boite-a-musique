@@ -1,0 +1,3 @@
+
+void beginInput();
+void loopLInput();
