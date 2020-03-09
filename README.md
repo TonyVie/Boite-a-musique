@@ -7,6 +7,6 @@ Part list:
 - Arduino nano
 - Dfplayer mini
 - dual 16340 Battery Shield Power Bank
-- rotary knob
+- rotary encoder
 - 10k potentiometer
 - Micro Limit Switch (Roller Lever Arm)
